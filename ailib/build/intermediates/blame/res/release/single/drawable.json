@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/apple/.android/build-cache/1804a044cbf772be5813df0f63c3d85648f01aee/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/apple/.android/build-cache/1804a044cbf772be5813df0f63c3d85648f01aee/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/apple/.android/build-cache/1804a044cbf772be5813df0f63c3d85648f01aee/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/drawable/mic_control.xml",
+        "source": "/Users/apple/Desktop/trainingclasses2/ailib/src/main/res/drawable/mic_control.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/apple/.android/build-cache/1804a044cbf772be5813df0f63c3d85648f01aee/output/res/drawable/notification_bg.xml"
+    }
+]

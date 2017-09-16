@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/apple/.android/build-cache/39050620c2c855cbb76fab090ba124c7dc8562a7/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/apple/.android/build-cache/39050620c2c855cbb76fab090ba124c7dc8562a7/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/apple/.android/build-cache/39050620c2c855cbb76fab090ba124c7dc8562a7/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/aidialog.xml",
+        "source": "/Users/apple/Desktop/trainingclasses2/ailib/src/main/res/layout/aidialog.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/apple/.android/build-cache/39050620c2c855cbb76fab090ba124c7dc8562a7/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/apple/.android/build-cache/1804a044cbf772be5813df0f63c3d85648f01aee/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/apple/.android/build-cache/1804a044cbf772be5813df0f63c3d85648f01aee/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/apple/.android/build-cache/39050620c2c855cbb76fab090ba124c7dc8562a7/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/apple/.android/build-cache/39050620c2c855cbb76fab090ba124c7dc8562a7/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/apple/.android/build-cache/39050620c2c855cbb76fab090ba124c7dc8562a7/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/apple/.android/build-cache/39050620c2c855cbb76fab090ba124c7dc8562a7/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/apple/.android/build-cache/39050620c2c855cbb76fab090ba124c7dc8562a7/output/res/layout/notification_template_big_media.xml"
+    }
+]

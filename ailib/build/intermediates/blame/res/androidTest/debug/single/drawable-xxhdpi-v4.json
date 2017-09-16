@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/cube.png",
+        "source": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/cube.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/speaker_silent.png",
+        "source": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/speaker_silent.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/speaker.png",
+        "source": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/speaker.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/microphone_control.png",
+        "source": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/microphone_control.png"
+    }
+]

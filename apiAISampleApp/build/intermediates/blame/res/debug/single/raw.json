@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/apiAISampleApp/build/intermediates/res/merged/debug/raw/test_start.wav",
+        "source": "/Users/apple/Desktop/trainingclasses2/apiAISampleApp/src/main/res/raw/test_start.wav"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/apiAISampleApp/build/intermediates/res/merged/debug/raw/test_stop.mp3",
+        "source": "/Users/apple/Desktop/trainingclasses2/apiAISampleApp/src/main/res/raw/test_stop.mp3"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/apiAISampleApp/build/intermediates/res/merged/debug/raw/version_config.json",
+        "source": "/Users/apple/Desktop/trainingclasses2/ailib/build/intermediates/bundles/default/res/raw/version_config.json"
+    },
+    {
+        "merged": "/Users/apple/Desktop/trainingclasses2/apiAISampleApp/build/intermediates/res/merged/debug/raw/test_cancel.wav",
+        "source": "/Users/apple/Desktop/trainingclasses2/apiAISampleApp/src/main/res/raw/test_cancel.wav"
+    }
+]
